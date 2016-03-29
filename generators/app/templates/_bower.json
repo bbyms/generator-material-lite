@@ -1,0 +1,7 @@
+{
+  "name": "<%= props.appName %>",
+  "version": "0.0.0",
+  "dependencies": {
+    "material-design-lite": "^1.1.0"
+  }
+}
